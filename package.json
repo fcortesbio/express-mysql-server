@@ -1,0 +1,24 @@
+{
+  "name": "express-mysql-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon /src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fcortesbio/express-mysql-server.git"
+  },
+  "keywords": [],
+  "author": "fcortesbio",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/fcortesbio/express-mysql-server/issues"
+  },
+  "homepage": "https://github.com/fcortesbio/express-mysql-server#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
